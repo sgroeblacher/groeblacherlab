@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Groeblacher Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Groeblacher Lab at Delft University of Technology."
 sitemap: false
 permalink: /
 ---
