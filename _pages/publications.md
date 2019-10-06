@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Groeblacher Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Groeblacher Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=3FNLMXkAAAAJ) or [arXiv](https://arxiv.org/a/groblacher_s_1))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,12 +52,18 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## List of publications
+\* <em>indicates equal contribution</em>
 
 {% for publi in site.data.publist %}
 
+{% if publi.newyear == 1 %}
+#### {{ publi.year }} 
+{% endif %}
+
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% if publi.arxiv == 1 %} [<a href="{{ publi.eprint }}">e-print</a>]
+  {% endif %}
 
 {% endfor %}
 

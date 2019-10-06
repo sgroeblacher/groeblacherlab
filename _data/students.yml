@@ -1,16 +1,14 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
-- name: Rosanne Wijgman
-  photo: rock.jpg
+- name: Max Drimmer
+  photo: Max.jpg
   info: Master student
-  email: rosanne.wijgman@student.ru.nl
-  number_educ: 0
-  education1:
+  email: m.drimmer@student.tudelft.nl
+
+- name: Frederick Hijazi
+  photo: Fred.jpg
+  info: Master student
+  email: f.m.hijazi@student.tudelft.nl
+  
+- name: Ulderico Filippozzi
+  photo: Ulderico.jpg
+  info: Master student
+  email: u.filippozzi@student.tudelft.nl

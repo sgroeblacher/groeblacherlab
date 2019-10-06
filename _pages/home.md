@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+### Overview
+
+In our lab we aim to probe quantum physics on a meso- and macroscopic level using mechanical oscillators coupled to an optical cavity field through radiation pressure. This is a relatively new research field, typically referred to as optomechanics. Over the past few years we have been able to experimentally demonstrate coherent quantum control of macroscopic degrees of freedom. If you want to find out more about this exciting field look at some of our recent publications or at this overview article.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -69,8 +71,9 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TUDelft.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Kavli.gif" style="width: 150px">
 </figure>
