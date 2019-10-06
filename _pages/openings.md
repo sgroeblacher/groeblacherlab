@@ -16,5 +16,5 @@ We currently have one open PhD and one Postdoc position and are always happy hea
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Group_Uitje.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Vacancies.jpg" width="95%">
 </figure>
