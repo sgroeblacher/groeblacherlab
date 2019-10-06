@@ -62,8 +62,8 @@ permalink: /publications/
 {% endif %}
 
   {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% if publi.arxiv == 1 %} [<a href="{{ publi.eprint }}">e-print</a>]
-  {% endif %}
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>{% if publi.arxiv == 1 %} [<a href="{{ publi.eprint }}">e-print</a>]{% endif %}<br/>
+  {{ publi.news2 }}
 
 {% endfor %}
 

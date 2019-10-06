@@ -28,7 +28,7 @@
   
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: Pub_SmartTip.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probes.
   authors: M. Leeuwenhoek, R. A. Norte, K. M. Bastiaans, D. Cho, I. Battisti, Y. M. Blanter, S. Gröblacher, and M. P. Allan
   link:
     url: https://doi.org/10.1088/1361-6528/ab1c7f
@@ -42,7 +42,7 @@
 
 - title: "Near-field coupling of a levitated nanoparticle to a photonic crystal cavity"
   image: Cover_Optica.jpg
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
+  description: We use a novel method of light-guiding nanoscale device called a photonic crystal cavity to monitor the position of a nanoparticle levitating in a traditional optical trap.
   authors: L. Magrini, R. A. Norte, R. Riedinger, I. Marinković, D. Grass, U. Delić, S. Gröblacher, S. Hong, and M. Aspelmeyer
   link:
     url: https://doi.org/10.1364/OPTICA.5.001597
@@ -56,7 +56,7 @@
 
 - title: "An optomechanical Bell test"
   image: Pub_Bell.png
-  description: We have imaged the doubling of the current noise due to Andreev reflections in a Josephson scanning tunneling microscope.
+  description: In our experiment, photons interact with mechanical oscillators through the radiation pressure force, which leads to an entangled opto-mechanical state. We use this to violate a Bell inequality, demonstrating that massive systems can be at variance with local realism.
   authors: I. Marinković\*, A. Wallucks\*, R. Riedinger, S. Hong, M. Aspelmeyer, and S. Gröblacher
   link:
     url: https://doi.org/10.1103/PhysRevLett.121.220404
@@ -68,7 +68,7 @@
 
 - title: "Integrated optomechanical arrays of two high reflectivity SiN membranes"
   image: Pub_DM.png
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
+  description: We realize a platform of two integrated high-reflectivity membranes, which can be used to enhance optomechanical coupling, as well as create novel quantum sensors.
   authors: C. Gärtner\*, J. P. Moura\*, W. Haaxman, R. A. Norte, and S. Gröblacher
   link:
     url: https://doi.org/10.1021/acs.nanolett.8b03240
@@ -121,8 +121,8 @@
   year: 
   
 - title: "Remote quantum entanglement between two micromechanical oscillators"
-  image: 
-  description: 
+  image: Pub_Entanglement.jpg
+  description: Entanglement is famously known as the *spooky action at a distance* between two objects that can only be described with quantum theory. We have now succeeded in creating such entanglement between two massive, micromechanical resonators mediated by photons. 
   authors: R. Riedinger\*, A. Wallucks\*, I. Marinković\*, C. Löschnauer, M. Aspelmeyer, S. Hong, and S. Gröblacher
   link:
     url: https://doi.org/10.1038/s41586-018-0036-z
@@ -149,8 +149,8 @@
   year: 
   
 - title: "Hanbury Brown and Twiss interferometry of single phonons from an optomechanical resonator"
-  image: 
-  description: 
+  image: Pub_Fock.jpg
+  description: We create individual phonon excitations of a mechanical oscillator and confirm their fundamental particle aspect, adapting a well-known test from quantum optics.
   authors: S. Hong\*, R. Riedinger\*, I. Marinković\*, A. Wallucks\*, S. G. Hofer, R. A. Norte, M. Aspelmeyer, and S. Gröblacher
   link:
     url: https://doi.org/10.1126/science.aan7939
@@ -177,8 +177,8 @@
   year: 
   
 - title: "Mechanical Resonators for Quantum Optomechanics Experiments at Room Temperature"
-  image: 
-  description: 
+  image: Pub_highQ.jpg
+  description: We created a highly reflective membrane with ultra-high mechanical quality factors, which is a promising candidate to test quantum mechanics in large objects at ambient temperatures.
   authors: R. A. Norte, J. P. Moura, and S. Gröblacher
   link:
     url: https://doi.org/10.1103/PhysRevLett.116.147202
@@ -191,8 +191,8 @@
   year: 2016
   
 - title: "Non-classical correlations between single photons and phonons from a mechanical oscillator"
-  image: 
-  description: 
+  image: Pub_gcc.jpg
+  description: In our experiment, we observe non-classical correlations between a mechanical resonator and a single photon, demontsrating quantum behavior of mechanical motion.
   authors: R. Riedinger\*, S. Hong\*, R. A. Norte, J. A. Slater, J. Shang, A. G. Krause, V. Anant, M. Aspelmeyer, and S. Gröblacher
   link:
     url: https://doi.org/10.1038/nature16536
