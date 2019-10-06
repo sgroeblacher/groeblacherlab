@@ -1,25 +1,47 @@
 ---
-title: "Allan Lab - Research"
+title: "Groeblacher Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Groeblacher Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+Here in Delft we have two main research directions within optomechanics: (1) we aim to increase the opto-mechanical interaction strength to levels where single photons already have an appreciable effect. This will ultimately allow us to obtain full control over massive mechanical quantum systems. (2) we integrate the optical cavity and our mechanical systems into waveguides by patterning a photonic / phononic crystal, which are periodic structures with bandgaps for optical photons and phonons. In order to realize quantum states of the mechanical system we use single photon detection on the light field that has interacted with the mechanics.
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? 
- 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+Our experiments involve techniques from quantum optics, finite element simulation, cryogenics, RF and high-vacuum technology. We fabricate the mechanical oscillators for our experiments in house at the [Kavli Nanolab](http://www.tnw.tudelft.nl/en/about-faculty/departments/quantum-nanoscience/kavli-nanolab-delft/).
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
 
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/Nonclassical_state.png){: style="width: 300px; float: left; border: 10px; margin-right: 20px"}
+<br>
+<br>
+<br>
+Finite element simulation of the mechanical mode of the oscillator used to demonstrate a joint non-classical state between a massive mechanical system and light. The insets show the energy level scheme of the optomechanical radiation pressure interaction for the Stokes (blue) and anti-Stokes (red) sideband: [Nature **530**, 313 – 316 (2016)](https://doi.org/10.1038/nature16536). We recently used a similar device to create a single phonon state of a mechanical resonator: [Science **358**, 203 – 206 (2017)](https://doi.org/10.1126/science.aan7939) and are now even able to create an entangled state between two such mechanical oscillators [Nature **556**, 473 – 477 (2018)](https://doi.org/10.1038/s41586-018-0036-z).
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
 
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
+<br>
+<br>
+<br>
+<br>
+![]({{ site.url }}{{ site.baseurl }}/images/respic/HighQ_artist.jpg){: style="width: 200px; float: right; border: 10px; margin-left: 20px"}
+<br>
+<br>
+<br>
+An artist’s impression of one of our ultra-thin silicon nitride tethered membranes coupled to a laser beam. They exhibit mechanical quality factors of around 108 at room temperature and reflectivities greater than 99%, thanks to a photonic crystal. More information on these devices can be found in our recent article: [Phys. Rev. Lett. **116**, 147202 (2016)](https://doi.org/10.1103/PhysRevLett.116.147202).
 
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+![]({{ site.url }}{{ site.baseurl }}/images/respic/ScientificAmerican.jpg){: style="width: 100px; align: left; border: 10px"}
+Our research has recently been very prominently featured on the cover of the July 2018 issue of [Scientific American](https://www.scientificamerican.com/magazine/sa/2018/07-01/)!
+<br>
+
+
+
+For more information on my background you can find my CV [here](/groeblacherlab/documents/CV_SGroeblacher.pdf).
