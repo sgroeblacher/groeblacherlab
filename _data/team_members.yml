@@ -99,7 +99,7 @@
   
 - name: "This could be you!"
   photo: rock.jpg
-  info: See <a href="http://www.groeblacherlab.org/vacancies">openings</a> for more info
+  info: See <a href="/groeblacherlab/vacancies">vacancies</a> for more info
   email: s.groeblacher@tudelft.nl
   CV: 0
   number_educ: 0
