@@ -1,0 +1,13 @@
+- name: Claus Gärtner
+  photo: Claus.jpg
+  info: PhD Student, <a href="https://aspelmeyer.quantum.at/">Aspelmeyer Group</a>
+  office: D113
+  cell: +31 15 278 1369
+  email: c.m.gaertner@tudelft.nl
+
+- name: Rodrigo da Silva Benevides
+  photo: Rodrigo.jpg
+  info: PhD Student, <a href="https://sites.ifi.unicamp.br/lpd/">Alegre Group</a>
+  office: D120
+  cell: +31 15 278 
+  email: r.dasilvabenevides@tudelft.nl
