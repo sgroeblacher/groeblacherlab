@@ -32,7 +32,7 @@ In our lab we aim to probe quantum physics on a meso- and macroscopic level usin
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider_NBs.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider_Casimir.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider_Casimir.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slider_LPCVD.jpg" alt="Slide 4" />
