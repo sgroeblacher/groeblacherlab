@@ -13,18 +13,18 @@
   year: E-prints
 
 - title: "Microwave-to-optics conversion using a mechanical oscillator in its quantum groundstate"
-  image: 
-  description: 
+  image: Pub_WLC.jpg
+  description: An integrated electro-optomechanical device is used to demonstrate  coherent conversion between a microwave GHz and an optical telecom signal, close to the quantum noise limit.
   authors: M. Forsch\*, R. Stockill\*, A. Wallucks, I. Marinković, C. Gärtner, R. A. Norte, F. van Otten, A. Fiore, K. Srinivasan, and S. Gröblacher
   link:
-    url: https://arxiv.org/abs/1812.07588
-    display: arXiv1812.07588 (2018)
-  arxiv: 0
-  eprint: 
-  highlight: 0
+    url: https://doi.org/10.1038/s41567-019-0673-7
+    display: Nature Phys. (2019)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1812.07588
+  highlight: 1
   news2:
-  newyear: 0
-  year: 
+  newyear: 1
+  year: 2019
   
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: Pub_SmartTip.png
@@ -37,8 +37,8 @@
   eprint: https://arxiv.org/abs/1712.08620
   highlight: 1
   news2:
-  newyear: 1
-  year: 2019
+  newyear: 0
+  year: 
 
 - title: "Near-field coupling of a levitated nanoparticle to a photonic crystal cavity"
   image: Cover_Optica.jpg
