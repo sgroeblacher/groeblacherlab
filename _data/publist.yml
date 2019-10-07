@@ -517,7 +517,7 @@
   description: 
   authors: I. Marinković
   link:
-    url: 
+    url: https://doi.org/10.4233/uuid:aa1e9f1e-456b-4ac9-b541-991d7f6baaa6
     display: Delft University of Technology (2019)
   arxiv: 0
   eprint: 
@@ -525,3 +525,73 @@
   news2: 
   newyear: 1
   year: Dissertations
+  
+- title: "Making light jump: Photonic crystals on trampoline membranes for optomechanics experiments"
+  image: 
+  description: 
+  authors: J. P. Pinto Moura
+  link:
+    url: https://doi.org/10.4233/uuid:f090d58f-558c-47ed-8c9c-3152dadbc4ae
+    display: Delft University of Technology (2019)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Nanofabrication for On-Chip Optical Levitation, Atom-Trapping, and Superconducting Quantum Circuits"
+  image: 
+  description: 
+  authors: R. A. Norte
+  link:
+    url: http://thesis.library.caltech.edu/8718/
+    display: California Institute of Technology (2014)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Quantum opto-mechanics with micromirrors: combining nano-mechanics with quantum optics"
+  image: 
+  description: 
+  authors: S. Gröblacher
+  link:
+    url: http://othes.univie.ac.at/12892/
+    display: University of Vienna (2010)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "also published as:"
+  image: 
+  description: 
+  authors: Gröblacher, Simon
+  link:
+    url: http://www.springer.com/physics/atomic%2C+molecular%2C+optical+%26+plasma+physics/book/978-3-642-34954-6
+    display: Quantum opto-mechanics with micromirrors: combining nano-mechanics with quantum optics. Heidelberg: Springer, 2012.
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Experimental Investigation of Quantum Communication Protocols in Higher Dimensions"
+  image: 
+  description: 
+  authors: S. Gröblacher
+  link:
+    url: 
+    display: <a href="/groeblacherlab/documents/SGroeblacher_MasterThesis.pdf">University of Vienna (2005)</a>
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: Master Theses
