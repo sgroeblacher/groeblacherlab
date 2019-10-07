@@ -231,3 +231,297 @@
   news2: <a href="https://doi.org/10.1038/520441a"><i>News & Views</i> by Ivan Favero</a>.
   newyear: 0
   year: 
+
+- title: "Silicon optomechanical crystal resonator at millikelvin temperatures"
+  image: 
+  description: 
+  authors: S. M. Meenehan\*, J. D. Cohen\*, S. Gröblacher\*, J. T. Hill, A. H. Safavi-Naeini, M. Aspelmeyer, and O. Painter
+  link:
+    url: https://doi.org/10.1103/PhysRevA.90.011803
+    display: Phys. Rev. A <b>90</b>, 011803(R) (2014)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1403.3703
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: 2014
+  
+- title: "Two-dimensional phononic-photonic band gap optomechanical crystal cavity"
+  image: 
+  description: 
+  authors: A. H. Safavi-Naeini, J. T. Hill, S. Meenehan, J. Chan, S Gröblacher, and O. Painter
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.112.153603
+    display: Phys. Rev. Lett. <b>112</b>, 153603 (2014)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1401.1493
+  highlight: 0
+  news2: <a href="https://physics.aps.org/articles/v7/38"><i>Viewpoint</i> by Florian Marquardt</a>.
+  newyear: 0
+  year: 
+  
+- title: "Highly efficient coupling from an optical fiber to a nanoscale silicon optomechanical cavity"
+  image: 
+  description: 
+  authors: S. Gröblacher\*, J. T. Hill\*, A. H. Safavi-Naeini\*, J. Chan, and O. Painter
+  link:
+    url: https://doi.org/10.1063/1.4826924
+    display: Appl. Phys. Lett. <b>103</b>, 181104 (2013)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1309.1181
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: 2013
+  
+- title: "Phase-space behavior and conditional dynamics of an optomechanical system"
+  image: 
+  description: 
+  authors: S. Gröblacher, S. Gigan, and M. Paternostro
+  link:
+    url: https://doi.org/10.1103/PhysRevA.88.023813
+    display: Phys. Rev. A <b>88</b>, 023813 (2013)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1212.2896
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Squeezed light from a silicon micromechanical resonator"
+  image: 
+  description: 
+  authors: A. H. Safavi-Naeini\*, S. Gröblacher\*, J. T. Hill\*, J. Chan, M. Aspelmeyer, and O. Painter
+  link:
+    url: https://doi.org/10.1038/nature12307
+    display: Nature <b>500</b>, 185–189 (2013)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1302.6179
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Enhancing non-classicality in mechanical systems"
+  image: 
+  description: 
+  authors: J. Li, S. Gröblacher, and M. Paternostro
+  link:
+    url: https://doi.org/10.1088/1367-2630/15/3/033023
+    display: New J. Phys. <b>15</b>, 033023 (2013)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1211.5395
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Highly efficient heralding of entangled single photons"
+  image: 
+  description: 
+  authors: S. Ramelow, A. Mech, M. Giustina, S. Gröblacher, W. Wieczorek, J. Beyer, A. Lita, B. Calkins, T. Gerrits, S. W. Nam, A. Zeilinger, and R. Ursin
+  link:
+    url: https://doi.org/10.1364/OE.21.006707
+    display: Opt. Express <b>21</b>, 6707–6717 (2013)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1211.5059
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Laser noise in cavity-optomechanical cooling and thermometry"
+  image: 
+  description: 
+  authors: A. H. Safavi-Naeini, J. Chan, J. T. Hill, S. Gröblacher, H. Miao, Y. Chen, M. Aspelmeyer, and O. Painter
+  link:
+    url: https://doi.org/10.1088/1367-2630/15/3/035007
+    display: New J. Phys. <b>15</b>, 035007 (2013)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1210.2671
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Laser cooling of a nanomechanical oscillator into its quantum ground state"
+  image: 
+  description: 
+  authors: J. Chan, T. P. Mayer Alegre, A. H. Safavi-Naeini, J. T. Hill, A. Krause, S. Gröblacher, M. Aspelmeyer, and O. Painter
+  link:
+    url: https://doi.org/10.1038/nature10461
+    display: Nature <b>478</b>, 89–92 (2011)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1106.3614
+  highlight: 0
+  news2: <a href="https://doi.org/10.1038/478047a"><i>News & Views</i> by Florian Marquardt</a>.
+  newyear: 1
+  year: 2011
+  
+- title: "Quantum optomechanics – throwing a glance"
+  image: 
+  description: 
+  authors: M. Aspelmeyer, S. Gröblacher, K. Hammerer, and N. Kiesel
+  link:
+    url: https://doi.org/10.1364/JOSAB.27.00A189
+    display: J. Opt. Soc. Am. B <b>27</b>, A189–A197 (2010)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1005.5518
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: 2010 and earlier
+  
+- title: "Observation of strong coupling between a micromechanical resonator and an optical cavity field"
+  image: 
+  description: 
+  authors: S. Gröblacher, K. Hammerer, M. R. Vanner, and M. Aspelmeyer
+  link:
+    url: https://doi.org/10.1038/nature08171
+    display: Nature <b>460</b>, 724–727 (2009)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0903.5293
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Demonstration of an ultracold micro-optomechanical oscillator in a cryogenic cavity"
+  image: 
+  description: 
+  authors: S. Gröblacher, J. B. Hertzberg, M. R. Vanner, G. D. Cole, S. Gigan, K. C. Schwab, and M. Aspelmeyer
+  link:
+    url: https://doi.org/10.1038/nphys1301
+    display: Nature Phys. <b>5</b>, 485–488 (2009)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0901.1801
+  highlight: 0
+  news2: <a href="https://doi.org/10.1038/478047a"><i>News & Views</i> by Andrew Cleland</a>.
+  newyear: 0
+  year: 
+  
+- title: "Monocrystalline AlxGa1−xAs heterostructures for high-reflectivity high-Q micromechanical resonators in the megahertz regime"
+  image: 
+  description: 
+  authors: G. D. Cole, S. Gröblacher, K. Gugler, S. Gigan, and M. Aspelmeyer
+  link:
+    url: https://doi.org/10.1063/1.2952512
+    display: Appl. Phys. Lett. <b>92</b>, 261108 (2008)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0802.0465
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Radiation-pressure self-cooling of a micromirror in a cryogenic environment"
+  image: 
+  description: 
+  authors: S. Gröblacher, S. Gigan, H. R. Böhm, A. Zeilinger, and M. Aspelmeyer
+  link:
+    url: https://doi.org/10.1209/0295-5075/81/54003
+    display: Europhys. Lett. <b>81</b>, 54003 (2008)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0705.1149
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Experimental Test of Nonlocal Realistic Theories Without the Rotational Symmetry Assumption"
+  image: 
+  description: 
+  authors: T. Paterek, A. Fedrizzi, S. Gröblacher, T. Jennewein, M. Żukowski, M. Aspelmeyer, and A. Zeilinger
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.99.210406
+    display: Phys. Rev. Lett. <b>99</b>, 210406 (2007)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0708.0813
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "How to create and detect N-dimensional entangled photons with an active phase hologram"
+  image: 
+  description: 
+  authors: M. Stütz, S. Gröblacher, T. Jennewein, and A. Zeilinger
+  link:
+    url: https://doi.org/10.1063/1.2752728
+    display: Appl. Phys. Lett. <b>90</b>, 261114 (2007)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0707.0061
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "An experimental test of non-local realism"
+  image: 
+  description: 
+  authors: S. Gröblacher, T. Paterek, R. Kaltenbaek, Č. Brukner, M. Żukowski, M. Aspelmeyer, and A. Zeilinger
+  link:
+    url: https://doi.org/10.1038/nature05677
+    display: Nature <b>446</b>, 871–875 (2007)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/0704.2529
+  highlight: 0
+  news2: <a href="https://doi.org/10.1038/446866a"><i>News & Views</i> by Alain Aspect</a>.
+  newyear: 0
+  year: 
+  
+- title: "Experimental Quantum Cryptography with Qutrits"
+  image: 
+  description: 
+  authors: S. Gröblacher, T. Jennewein, A. Vaziri, G. Weihs, and A. Zeilinger
+  link:
+    url: https://doi.org/10.1088/1367-2630/8/5/075
+    display: New J. Phys. <b>8</b>, 75 (2006)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/quant-ph/0511163
+  highlight: 0
+  news2: 
+  newyear: 0
+  year: 
+  
+- title: "Megahertz monocrystalline optomechanical resonators with minimal dissipation"
+  image: 
+  description: 
+  authors: G. D. Cole, I. Wilson-Rae, M. R. Vanner, S. Gröblacher, J. Pohl, M. Zorn, M. Weyers, A. Peters, and M. Aspelmeyer
+  link:
+    url: 
+    display: 23rd IEEE International Conference on Microelectromechanical Systems (Hong Kong, China, January 24-28, 2010)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: Proceedings
+  
+- title: "Licht macht Druck"
+  image: 
+  description: 
+  authors: N. Kiesel, W. Wieczorek, S. Gröblacher, and M. Aspelmeyer
+  link:
+    url: https://doi.org/10.1002/piuz.201101283
+    display: Phys. Unserer Zeit <b>42</b>, 276–284 (2011)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: Popular Science
+  
+- title: "Optomechanical devices in the quantum regime"
+  image: 
+  description: 
+  authors: I. Marinković
+  link:
+    url: 
+    display: Delft University of Technology (2019)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2: 
+  newyear: 1
+  year: Dissertations
