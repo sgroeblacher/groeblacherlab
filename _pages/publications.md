@@ -54,7 +54,7 @@ permalink: /publications/
 
 ## List of publications
 \* <em>indicates equal contribution</em><br/>
-Freely accessible pre-prints can be found under [e-print].
+<em>freely accessible pre-prints can be found under [e-print]</em>
 
 {% for publi in site.data.publist %}
 
