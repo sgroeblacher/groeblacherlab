@@ -50,7 +50,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1804.06676
   highlight: 1
-  news2: <a href="https://www.osapublishing.org/optica/issue.cfm?volume=5&issue=12"> Featured on the cover of Optica, December 2018</a>.
+  news2: <a href="https://www.osapublishing.org/optica/issue.cfm?volume=5&issue=12"> Featured on the cover of Optica, December 2018</a>
   newyear: 1
   year: 2018
 
@@ -64,7 +64,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1806.10615
   highlight: 1
-  news2: <a href="https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.121.220404"><i>Synopsis</i> by Christopher Crockett</a>.
+  news2: <a href="https://physics.aps.org/synopsis-for/10.1103/PhysRevLett.121.220404"><i>Synopsis</i> by Christopher Crockett</a>
 
 - title: "Integrated optomechanical arrays of two high reflectivity SiN membranes"
   image: Pub_DM.png
@@ -130,7 +130,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1710.11147
   highlight: 1
-  news2: <a href="https://doi.org/10.1038/d41586-018-04827-5"><i>News & Views</i> by Andrew Armour</a>.
+  news2: <a href="https://doi.org/10.1038/d41586-018-04827-5"><i>News & Views</i> by Andrew Armour</a>
   newyear: 0
   year: 
   
@@ -186,7 +186,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1511.06235
   highlight: 1
-  news2: <a href="https://physics.aps.org/articles/v9/40"><i>Viewpoint</i> by John Teufel</a>.
+  news2: <a href="https://physics.aps.org/articles/v9/40"><i>Viewpoint</i> by John Teufel</a>
   newyear: 1
   year: 2016
   
@@ -200,7 +200,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1512.05360
   highlight: 1
-  news2: <a href="https://doi.org/10.1038/530284a"><i>News & Views</i> by Miles Blencowe</a>.
+  news2: <a href="https://doi.org/10.1038/530284a"><i>News & Views</i> by Miles Blencowe</a>
   newyear: 0
   year: 
   
@@ -228,7 +228,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1410.1047
   highlight: 0
-  news2: <a href="https://doi.org/10.1038/520441a"><i>News & Views</i> by Ivan Favero</a>.
+  news2: <a href="https://doi.org/10.1038/520441a"><i>News & Views</i> by Ivan Favero</a>
   newyear: 0
   year: 
 
@@ -256,7 +256,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1401.1493
   highlight: 0
-  news2: <a href="https://physics.aps.org/articles/v7/38"><i>Viewpoint</i> by Florian Marquardt</a>.
+  news2: <a href="https://physics.aps.org/articles/v7/38"><i>Viewpoint</i> by Florian Marquardt</a>
   newyear: 0
   year: 
   
@@ -354,7 +354,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/1106.3614
   highlight: 0
-  news2: <a href="https://doi.org/10.1038/478047a"><i>News & Views</i> by Florian Marquardt</a>.
+  news2: <a href="https://doi.org/10.1038/478047a"><i>News & Views</i> by Florian Marquardt</a>
   newyear: 1
   year: 2011
   
@@ -396,7 +396,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/0901.1801
   highlight: 0
-  news2: <a href="https://doi.org/10.1038/478047a"><i>News & Views</i> by Andrew Cleland</a>.
+  news2: <a href="https://doi.org/10.1038/nphys1324"><i>News & Views</i> by Andrew Cleland</a>
   newyear: 0
   year: 
   
@@ -466,7 +466,7 @@
   arxiv: 1
   eprint: https://arxiv.org/abs/0704.2529
   highlight: 0
-  news2: <a href="https://doi.org/10.1038/446866a"><i>News & Views</i> by Alain Aspect</a>.
+  news2: <a href="https://doi.org/10.1038/446866a"><i>News & Views</i> by Alain Aspect</a>
   newyear: 0
   year: 
   
@@ -490,7 +490,7 @@
   authors: G. D. Cole, I. Wilson-Rae, M. R. Vanner, S. Gröblacher, J. Pohl, M. Zorn, M. Weyers, A. Peters, and M. Aspelmeyer
   link:
     url: 
-    display: 23rd IEEE International Conference on Microelectromechanical Systems (Hong Kong, China, January 24-28, 2010)
+    display: <a href="/documents/Cole2010 - Megahertz monocrystalline optomechanical resonators with minimal dissipation.pdf">23rd IEEE International Conference on Microelectromechanical Systems (Hong Kong, China, January 24-28, 2010)</a>
   arxiv: 0
   eprint: 
   highlight: 0
