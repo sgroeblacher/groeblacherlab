@@ -17,14 +17,14 @@
   description: 
   authors: R. Stockill\*, M. Forsch\*, G. Beaudoin, K. Pantzas, I. Sagnes, R. Braive, and S. Gröblacher
   link:
-    url: https://arxiv.org/abs/1909.07850
-    display: arXiv1909.07850 (2019)
-  arxiv: 0
-  eprint: 
+    url: 
+    display: Phys. Rev. Lett. <b>123</b>, 163602 (2019)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1909.07850
   highlight: 0
   news2:
-  newyear: 0
-  year: 
+  newyear: 1
+  year: 2019
 
 - title: "Microwave-to-optics conversion using a mechanical oscillator in its quantum ground state"
   image: Pub_WLC.jpg
@@ -37,8 +37,8 @@
   eprint: https://arxiv.org/abs/1812.07588
   highlight: 1
   news2:
-  newyear: 1
-  year: 2019
+  newyear: 0
+  year: 
   
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: Pub_SmartTip.png
