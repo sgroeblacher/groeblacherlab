@@ -1,3 +1,17 @@
+- title: "A quantum memory at telecom wavelengths"
+  image: 
+  description: 
+  authors: A. Wallucks, I. Marinković, B. Hensen, R. Stockill, and S. Gröblacher
+  link:
+    url: https://arxiv.org/abs/1910.07409
+    display: arXiv1910.07409 (2019)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+  
 - title: "Gallium phosphide as a piezoelectric platform for quantum optomechanics"
   image: 
   description: 
@@ -9,8 +23,8 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
-  year: E-prints
+  newyear: 0
+  year: 
 
 - title: "Microwave-to-optics conversion using a mechanical oscillator in its quantum ground state"
   image: Pub_WLC.jpg
