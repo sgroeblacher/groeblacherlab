@@ -13,15 +13,15 @@
   year: E-prints
   
 - title: "Feedback cooling of a room temperature mechanical oscillator close to its motional groundstate"
-  image: 
-  description: 
+  image: RTcooling.png
+  description: A new fishbone-like design allows us to feedback cool an optomechanical device from room temperature by 6 orders of magnitude close to its groundstate of motion.
   authors: J. Guo, R. A. Norte, and S. Gröblacher
   link:
     url: https://doi.org/10.1103/PhysRevLett.123.223602
     display: Phys. Rev. Lett. <b>123</b>, 223602 (2019)
   arxiv: 1
   eprint: https://arxiv.org/abs/1911.01586
-  highlight: 0
+  highlight: 1
   news2:
   newyear: 1
   year: 2019
