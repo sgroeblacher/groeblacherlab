@@ -1,17 +1,3 @@
-- title: "Feedback cooling of a room temperature mechanical oscillator close to its motional groundstate"
-  image: 
-  description: 
-  authors: J. Guo, R. A. Norte, and S. Gröblacher
-  link:
-    url: https://arxiv.org/abs/1911.01586
-    display: arXiv1911.01586 (2019)
-  arxiv: 0
-  eprint: 
-  highlight: 0
-  news2:
-  newyear: 1
-  year: E-prints
-
 - title: "A quantum memory at telecom wavelengths"
   image: 
   description: 
@@ -23,8 +9,22 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 0
-  year: 
+  newyear: 1
+  year: E-prints
+  
+- title: "Feedback cooling of a room temperature mechanical oscillator close to its motional groundstate"
+  image: 
+  description: 
+  authors: J. Guo, R. A. Norte, and S. Gröblacher
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.123.223602
+    display: Phys. Rev. Lett. <b>123</b>, 223602 (2019)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/1911.01586
+  highlight: 0
+  news2:
+  newyear: 1
+  year: 2019
   
 - title: "Gallium phosphide as a piezoelectric platform for quantum optomechanics"
   image: 
@@ -37,8 +37,8 @@
   eprint: https://arxiv.org/abs/1909.07850
   highlight: 0
   news2:
-  newyear: 1
-  year: 2019
+  newyear: 0
+  year: 
 
 - title: "Microwave-to-optics conversion using a mechanical oscillator in its quantum ground state"
   image: Pub_WLC.jpg
