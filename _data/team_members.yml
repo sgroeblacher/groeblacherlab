@@ -52,14 +52,12 @@
   CV: 0
   number_educ: 0
   
-- name: Maarten Leeuwenhoek
-  photo: Maarten.jpg
-  info: PhD Student, with <a href="https://www.allanlab.org">Allan Lab</a>
-  office: D114
-  cell: +31 15 278 
-  email: m.leeuwenhoek@tudelft.nl
-  CV: 0
-  number_educ: 0
+- name: Claus Gärtner
+  photo: Claus.jpg
+  info: Postdoctoral Researcher, with <a href="https://atom.physik.unibas.ch">Treutlein Group</a>
+  office: D113
+  cell: +31 15 278 1369
+  email: c.m.gaertner@tudelft.nl
   
 - name: Moritz Forsch
   photo: Moritz.jpg
