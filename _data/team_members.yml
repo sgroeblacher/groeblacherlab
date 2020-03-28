@@ -95,6 +95,15 @@
   CV: 0
   number_educ: 0
   
+- name: Amirparsa Zivari
+  photo: Parsa.jpg
+  info: PhD Student
+  office: D109
+  cell: +31 15 278 
+  email: @tudelft.nl
+  CV: 0
+  number_educ: 0
+  
 - name: "This could be you!"
   photo: rock.jpg
   info: See <a href="/groeblacherlab/vacancies">vacancies</a> for more info
