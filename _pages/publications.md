@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=3FNLMXkAAAAJ), [Publons](https://publons.com/researcher/2464886/simon-groeblacher/) or [arXiv](https://arxiv.org/a/groblacher_s_1))
+(For a full list see [below](#list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?user=3FNLMXkAAAAJ), [ORCID](https://orcid.org/0000-0003-3932-7820), [Publons](https://publons.com/researcher/2464886/simon-groeblacher) or [arXiv](https://arxiv.org/a/groblacher_s_1))
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
