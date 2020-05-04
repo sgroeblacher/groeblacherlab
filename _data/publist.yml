@@ -1,6 +1,20 @@
 - title: "Stationary quantum entanglement between a massive mechanical membrane and a low frequency LC circuit"
   image: 
   description: 
+  authors: M. Leeuwenhoek, S. Gröblacher, M. P. Allan, and Y. M. Blanter
+  link:
+    url: https://arxiv.org/abs/2005.00362
+    display: arXiv:2005.00362 (2020)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+
+- title: "Stationary quantum entanglement between a massive mechanical membrane and a low frequency LC circuit"
+  image: 
+  description: 
   authors: J. Li and S. Gröblacher
   link:
     url: https://arxiv.org/abs/2002.03345
@@ -9,7 +23,7 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
+  newyear: 0
   year: E-prints
 
 - title: "A quantum memory at telecom wavelengths"
