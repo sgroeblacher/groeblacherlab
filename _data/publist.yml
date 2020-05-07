@@ -12,20 +12,6 @@
   newyear: 1
   year: E-prints
 
-- title: "Stationary quantum entanglement between a massive mechanical membrane and a low frequency LC circuit"
-  image: 
-  description: 
-  authors: J. Li and S. Gröblacher
-  link:
-    url: https://arxiv.org/abs/2002.03345
-    display: arXiv:2002.03345 (2020)
-  arxiv: 0
-  eprint: 
-  highlight: 0
-  news2:
-  newyear: 0
-  year: E-prints
-
 - title: "A quantum memory at telecom wavelengths"
   image: 
   description: 
@@ -39,6 +25,20 @@
   news2:
   newyear: 0
   year: 
+
+- title: "Stationary quantum entanglement between a massive mechanical membrane and a low frequency LC circuit"
+  image: 
+  description: 
+  authors: J. Li and S. Gröblacher
+  link:
+    url: https://doi.org/10.1088/1367-2630/ab90d2
+    display: New J. Phys. https://doi.org/10.1088/1367-2630/ab90d2
+  arxiv: 0
+  eprint: https://arxiv.org/abs/2002.03345
+  highlight: 0
+  news2:
+  newyear: 1
+  year: 2020
   
 - title: "Feedback cooling of a room temperature mechanical oscillator close to its motional groundstate"
   image: RTcooling.png
