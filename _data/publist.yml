@@ -1,3 +1,17 @@
+- title: "Proposal for Optomechanical Teleportation"
+  image: 
+  description: 
+  authors: Jie Li, Andreas Wallucks, Rodrigo Benevides, Niccolo Fiaschi, Bas Hensen, Thiago P. Mayer Alegre, and Simon Gröblacher
+  link:
+    url: https://arxiv.org/abs/2005.08860
+    display: arXiv:2005.08860 (2020)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+  
 - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
   image: 
   description: 
@@ -9,8 +23,8 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
-  year: E-prints
+  newyear: 0
+  year:
 
 - title: "A quantum memory at telecom wavelengths"
   image: Pub_QMemory.png
