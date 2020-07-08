@@ -1,7 +1,21 @@
+- title: "A perspective on hybrid quantum opto- and electromechanical systems"
+  image: 
+  description: 
+  authors: Y. Chu and S. Gröblacher
+  link:
+    url: https://arxiv.org/abs/2007.03360
+    display: arXiv:2007.03360 (2020)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+
 - title: "Proposal for Optomechanical Teleportation"
   image: 
   description: 
-  authors: Jie Li, Andreas Wallucks, Rodrigo Benevides, Niccolo Fiaschi, Bas Hensen, Thiago P. Mayer Alegre, and Simon Gröblacher
+  authors: J. Li, A. Wallucks, R. Benevides, N. Fiaschi, B. Hensen, T. P. Mayer Alegre, and S. Gröblacher
   link:
     url: https://arxiv.org/abs/2005.08860
     display: arXiv:2005.08860 (2020)
@@ -9,8 +23,8 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
-  year: E-prints
+  newyear: 0
+  year: 
   
 - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
   image: 
