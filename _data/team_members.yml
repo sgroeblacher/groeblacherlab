@@ -43,15 +43,6 @@
   CV: 0
   number_educ: 0
   
-- name: Andreas Wallucks
-  photo: Andreas.jpg
-  info: Postdoctoral Researcher
-  office: D112
-  cell: +31 15 278 1253
-  email: a.wallucks@tudelft.nl
-  CV: 0
-  number_educ: 0
-  
 - name: Claus Gärtner
   photo: Claus.jpg
   info: Postdoctoral Researcher, with <a href="https://atom.physik.unibas.ch">Treutlein Group</a>
