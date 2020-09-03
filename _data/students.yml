@@ -1,14 +1,9 @@
-- name: Max Drimmer
-  photo: Max.jpg
-  info: Master student
-  email: m.drimmer@student.tudelft.nl
-
 - name: Frederick Hijazi
   photo: Fred.jpg
-  info: Master student
+  info: Researcher
   email: f.m.hijazi@student.tudelft.nl
-  
-- name: Ulderico Filippozzi
-  photo: Ulderico.jpg
+
+- name: Isacco Gobbi
+  photo: Isacco.jpg
   info: Master student
-  email: u.filippozzi@student.tudelft.nl
+  email: i.gobbi@student.tudelft.nl

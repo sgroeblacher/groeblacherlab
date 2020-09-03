@@ -26,20 +26,6 @@
   newyear: 0
   year:
 
-- title: "Proposal for Optomechanical Teleportation"
-  image: 
-  description: 
-  authors: J. Li, A. Wallucks, R. Benevides, N. Fiaschi, B. Hensen, T. P. Mayer Alegre, and S. Gröblacher
-  link:
-    url: https://arxiv.org/abs/2005.08860
-    display: arXiv:2005.08860 (2020)
-  arxiv: 0
-  eprint: 
-  highlight: 0
-  news2:
-  newyear: 0
-  year: 
-  
 - title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
   image: 
   description: 
@@ -54,6 +40,19 @@
   newyear: 0
   year:
 
+- title: "Proposal for optomechanical quantum teleportation"
+  image: 
+  description: 
+  authors: J. Li, A. Wallucks, R. Benevides, N. Fiaschi, B. Hensen, T. P. Mayer Alegre, and S. Gröblacher
+  link:
+    url: https://doi.org/10.1103/PhysRevA.102.032402
+    display: Phys. Rev. A <b>102</b>, 032402 (2020)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/2005.08860
+  highlight: 0
+  news2:
+  newyear: 1
+  year: 2020
 
 - title: "A quantum memory at telecom wavelengths"
   image: Pub_QMemory.png
@@ -66,8 +65,8 @@
   eprint: https://arxiv.org/abs/1910.07409
   highlight: 1
   news2:
-  newyear: 1
-  year: 2020
+  newyear: 0
+  year:
 
 - title: "Stationary quantum entanglement between a massive mechanical membrane and a low frequency LC circuit"
   image: 
