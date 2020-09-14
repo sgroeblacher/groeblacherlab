@@ -26,19 +26,19 @@
   newyear: 0
   year:
 
-- title: "Modeling Green's functions measurements with two-tip scanning tunneling microscopy"
+- title: "Modeling Green's function measurements with two-tip scanning tunneling microscopy"
   image: 
   description: 
   authors: M. Leeuwenhoek, S. Gröblacher, M. P. Allan, and Y. M. Blanter
   link:
-    url: https://arxiv.org/abs/2005.00362
-    display: arXiv:2005.00362 (2020)
+    url: https://doi.org/10.1103/PhysRevB.102.115416
+    display: Phys. Rev. B <b>102</b>, 115416 (2020)
   arxiv: 0
-  eprint: 
+  eprint: https://arxiv.org/abs/2005.00362
   highlight: 0
   news2:
-  newyear: 0
-  year:
+  newyear: 1
+  year: 2020
 
 - title: "Proposal for optomechanical quantum teleportation"
   image: 
@@ -51,8 +51,8 @@
   eprint: https://arxiv.org/abs/2005.08860
   highlight: 0
   news2:
-  newyear: 1
-  year: 2020
+  newyear: 0
+  year:
 
 - title: "A quantum memory at telecom wavelengths"
   image: Pub_QMemory.png
