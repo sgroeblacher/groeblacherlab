@@ -104,6 +104,15 @@
   CV: 0
   number_educ: 0
   
+- name: Yu Zhang
+  photo: Yu.jpg
+  info: PhD Student
+  office: D118
+  cell: +31 15 278 
+  email: y.zhang-36@tudelft.nl
+  CV: 0
+  number_educ: 0
+  
 - name: "This could be you!"
   photo: Anon.jpg
   info: See <a href="/groeblacherlab/vacancies">vacancies</a> for more info
