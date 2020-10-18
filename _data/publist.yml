@@ -17,14 +17,14 @@
   description: 
   authors: Y. Chu and S. Gröblacher
   link:
-    url: https://arxiv.org/abs/2007.03360
-    display: arXiv:2007.03360 (2020)
-  arxiv: 0
-  eprint: 
+    url:  https://doi.org/10.1063/5.0021088
+    display: Apl. Phys. Lett. <b>117</b>, 150503 (2020)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/2007.03360
   highlight: 0
   news2:
-  newyear: 0
-  year:
+  newyear: 1
+  year: 2020
 
 - title: "Modeling Green's function measurements with two-tip scanning tunneling microscopy"
   image: 
@@ -37,8 +37,8 @@
   eprint: https://arxiv.org/abs/2005.00362
   highlight: 0
   news2:
-  newyear: 1
-  year: 2020
+  newyear: 0
+  year:
 
 - title: "Proposal for optomechanical quantum teleportation"
   image: 
