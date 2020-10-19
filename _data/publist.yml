@@ -1,3 +1,17 @@
+- title: "Hybrid integration of silicon photonic devices on lithium niobate for optomechanical wavelength conversion"
+  image: 
+  description: 
+  authors: I. Marinković, M. Drimmer, B. Hensen, and S. Gröblacher
+  link:
+    url: https://arxiv.org/abs/2010.08493
+    display: arXiv:2010.08493 (2020)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+
 - title: "Entangling the vibrational modes of two massive ferromagnetic spheres using cavity magnomechanics"
   image: 
   description: 
@@ -9,8 +23,8 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
-  year: E-prints
+  newyear: 0
+  year:
 
 - title: "A perspective on hybrid quantum opto- and electromechanical systems"
   image: 
