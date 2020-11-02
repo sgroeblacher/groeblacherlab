@@ -26,6 +26,20 @@
   newyear: 0
   year:
 
+- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
+  image: 
+  description: 
+  authors: M. Leeuwenhoek, F. Groenewoud, K. van Oosten, T. Benschop, M. P. Allan, and S. Gröblacher
+  link:
+    url: https://doi.org/10.1038/s41378-020-00209-y
+    display: Microsyst. Nanoeng. <b>6</b>, 99 (2020)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: 2020
+  
 - title: "A perspective on hybrid quantum opto- and electromechanical systems"
   image: 
   description: 
@@ -37,8 +51,8 @@
   eprint: https://arxiv.org/abs/2007.03360
   highlight: 0
   news2: <i>Editor's pick</i>
-  newyear: 1
-  year: 2020
+  newyear: 0
+  year: 
 
 - title: "Modeling Green's function measurements with two-tip scanning tunneling microscopy"
   image: 
