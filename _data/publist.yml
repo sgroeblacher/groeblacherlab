@@ -1,3 +1,17 @@
+- title: "Coherent mechanical noise cancellation and cooperativity competition in optomechanical arrays "
+  image: 
+  description: 
+  authors: Matthijs H. J. de Jong\*, Jie Li\*, Claus Gärtner, Richard A. Norte, and Simon Gröblacher
+  link:
+    url: https://arxiv.org/abs/2012.11733
+    display: arXiv:2012.11733 (2020)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+
 - title: "Hybrid integration of silicon photonic devices on lithium niobate for optomechanical wavelength conversion"
   image: 
   description: 
@@ -9,8 +23,8 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
-  year: E-prints
+  newyear: 0
+  year: 
 
 - title: "Entangling the vibrational modes of two massive ferromagnetic spheres using cavity magnomechanics"
   image: 
