@@ -24,31 +24,6 @@
   email: b.j.hensen@tudelft.nl
   CV: 0
   number_educ: 0
-
-- name: Jie Li
-  photo: Jie.jpg
-  info: Postdoctoral Researcher
-  office: D110
-  cell: +31 15 278 1193
-  email: j.li-17@tudelft.nl
-  CV: 0
-  number_educ: 0
-  
-- name: Claus Gärtner
-  photo: Claus.jpg
-  info: Postdoctoral Researcher, with <a href="https://atom.physik.unibas.ch">Treutlein Group</a>
-  office: D113
-  cell: +31 15 278 1369
-  email: c.m.gaertner@tudelft.nl
-  
-- name: Moritz Forsch
-  photo: Moritz.jpg
-  info: PhD Student
-  office: D113
-  cell: +31 15 278 1369
-  email: m.forsch@tudelft.nl
-  CV: 0
-  number_educ: 0
   
 - name: Jingkun Guo
   photo: Jingkun.jpg
