@@ -17,14 +17,14 @@
   description: 
   authors: J. Li and S. Gröblacher
   link:
-    url: https://arxiv.org/abs/2007.09083
-    display: arXiv:2007.09083 (2020)
-  arxiv: 0
-  eprint: 
+    url: https://doi.org/10.1088/2058-9565/abd982
+    display: Quantum Sci. Technol. (2021)
+  arxiv: 1
+  eprint: https://arxiv.org/abs/2007.09083
   highlight: 0
   news2:
-  newyear: 0
-  year:
+  newyear: 1
+  year: 2021
 
 - title: "Hybrid integration of silicon photonic devices on lithium niobate for optomechanical wavelength conversion"
   image: 
@@ -37,8 +37,8 @@
   eprint: https://arxiv.org/abs/2010.08493
   highlight: 0
   news2:
-  newyear: 1
-  year: 2021
+  newyear: 0
+  year: 
   
 - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
   image: 
