@@ -25,6 +25,15 @@
   CV: 0
   number_educ: 0
   
+- name: Yong Yu
+  photo: Yong.jpg
+  info: Postdoctoral Researcher
+  office: D113
+  cell: +31 15 278
+  email: y.yu-7@tudelft.nl
+  CV: 0
+  number_educ: 0
+  
 - name: Jingkun Guo
   photo: Jingkun.jpg
   info: PhD Student
@@ -46,7 +55,7 @@
 - name: Niccolo Fiaschi
   photo: Niccolo.jpg
   info: PhD Student
-  office: D120
+  office: D112
   cell: +31 15 278 1253
   email: n.fiaschi@tudelft.nl
   CV: 0
