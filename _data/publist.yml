@@ -1,4 +1,18 @@
-- title: "Coherent mechanical noise cancellation and cooperativity competition in optomechanical arrays "
+- title: "Optomechanical quantum teleportation"
+  image: 
+  description: 
+  authors: N. Fiaschi\*, B. Hensen\*, A. Wallucks, R. Benevides, J. Li, T. P. Mayer Alegre, and S. Gröblacher
+  link:
+    url: https://arxiv.org/abs/2104.02080
+    display: arXiv:2104.02080 (2021)
+  arxiv: 0
+  eprint: 
+  highlight: 0
+  news2:
+  newyear: 1
+  year: E-prints
+
+- title: "Coherent mechanical noise cancellation and cooperativity competition in optomechanical arrays"
   image: 
   description: 
   authors: M. H. J. de Jong\*, J. Li\*, C. Gärtner, R. A. Norte, and S. Gröblacher
@@ -9,8 +23,8 @@
   eprint: 
   highlight: 0
   news2:
-  newyear: 1
-  year: E-prints
+  newyear: 0
+  year: 
 
 - title: "Entangling the vibrational modes of two massive ferromagnetic spheres using cavity magnomechanics"
   image: 
