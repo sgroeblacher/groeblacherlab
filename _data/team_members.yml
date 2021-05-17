@@ -7,15 +7,6 @@
   CV: 1
   number_educ: 0
 
-- name: Robert Stockill
-  photo: Rob.jpg
-  info: Postdoctoral Researcher
-  office: F166
-  cell: +31 15 278 5669
-  email: r.h.j.stockill@tudelft.nl
-  CV: 0
-  number_educ: 0
-  
 - name: Bas Hensen
   photo: Bas.jpg
   info: Postdoctoral Researcher
@@ -94,6 +85,15 @@
   office: D113
   cell: +31 15 278 
   email: a.r.korsch@tudelft.nl
+  CV: 0
+  number_educ: 0
+
+- name: Liu Chen
+  photo: Liu.jpg
+  info: PhD Student
+  office: D1XX
+  cell: +31 15 278 
+  email: l.chen-7@tudelft.nl
   CV: 0
   number_educ: 0
   
